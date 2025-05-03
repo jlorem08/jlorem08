@@ -1,6 +1,6 @@
 # Hi, I’m JLorem!
 - 👀 I’m interested in Computer science, Game Development, and Simulation Design
-- 😄 Pronouns: he/him
+- 😄 Pronouns: they/them
 - ⚡ Fun fact: I started attending college at 12!
 
 <!---
