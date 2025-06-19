@@ -1,9 +1,4 @@
-# Hi, I’m JLorem!
+# Hi, I’m Noxira!
 - 👀 I’m interested in Computer science, Game Development, and Simulation Design
 - 😄 Pronouns: they/them
-- ⚡ Fun fact: I started attending college at 12!
-
-<!---
-jlorem08/jlorem08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Discord: @noxiralith
